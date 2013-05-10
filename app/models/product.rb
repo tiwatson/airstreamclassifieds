@@ -54,7 +54,9 @@ class Product < ActiveRecord::Base
 
   def self.sync_active_external_ids
     Product.active_external_ids.each do |external_id|
-      product = Product.find_or_create_by_external_id(external_id)
+      #product = Product.find_or_create_by_external_id(external_id)
+      product = Product.find_by_external_id(external_id)
+      product ||= Product.new(external_id: external_id)
       product.sync_details
     end
   end
