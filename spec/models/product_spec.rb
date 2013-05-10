@@ -137,16 +137,16 @@ describe "sync a trailer with missing attributes" do
     @product.year.should be_nil
   end
 
-  it "should have a model name" do
-    @product.make_model.should be_nil
+  it "should not have a model name" do
+    @product.make_model.should == ''
   end
 
   it "should have a length/size" do
     @product.size.should be_nil
   end
 
-  it "should be located in Missouri" do 
-    @product.location.should be_nil
+  it "should no be located in Missouri" do 
+    @product.location.should == ''
   end
 
   it "should be not sold" do

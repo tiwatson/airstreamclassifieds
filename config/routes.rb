@@ -1,4 +1,11 @@
 Airstreamclassifieds::Application.routes.draw do
+
+  root :to => 'products#index'
+
+  match 'length/:length/:order' => 'products#length', :as => :length
+
+  resources :products, :only => [:show]
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 

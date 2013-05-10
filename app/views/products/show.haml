@@ -1,0 +1,47 @@
+%h2= @product.title
+
+- if @product.is_active?
+  .alert.alert-info
+    %h4 
+      Active Listing on airstreamclassifieds.com - 
+      = link_to @product.url, @product.url
+
+%p.lead= @product.description
+
+.row
+  .span3
+    %dl
+      %dt Length
+      %dd= @product.size
+
+      - if @product.make_model.present?
+        %dt Make & Model
+        %dd= @product.make_model
+
+      - if @product.condition.present?
+        %dt Condition
+        %dd= @product.condition
+
+      - if @product.location.present?
+        %dt Location
+        %dd= @product.location
+  
+  .span9
+    %dl
+      - if @product.price_last.present?
+        %dt Listed Price
+        %dd= number_to_currency(@product.price_last)
+
+      - if @product.price.present? && @product.price != @product.price_last
+        %dt Original listing price
+        %dd= number_to_currency(@product.price)
+
+      %dt Listed on
+      %dd= @product.listed_at
+
+      - if @product.removed_at.present?
+        %dt Removed on
+        %dd= @product.removed_at
+
+      %dt Days listed
+      %dd= @product.days_active

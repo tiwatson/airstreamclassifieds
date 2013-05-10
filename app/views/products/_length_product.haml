@@ -1,0 +1,12 @@
+%tr
+  %td= link_to 'Details', product_path(product), class: 'btn btn-mini btn-info'
+  %td= product.days_active
+  %td= product.year
+  %td= product.make_model
+  %td
+    = number_to_currency(product.price_last)
+    - if product.price != product.price_last
+      %br/
+      = number_to_currency(product.price)
+  %td= product.location.truncate(40)
+  %td= product.title.truncate(20)

@@ -1,0 +1,33 @@
+%table.table.table-condensed.table-striped
+  %thead
+    %tr
+      %th{:rowspan => 2} Length
+      %th{:colspan => 3} Active Listings
+      %th{:colspan => 3} Removed/Sold Listings
+      %th{:colspan => 3} All Listings
+    %tr
+      %th Total
+      %th Avg $
+      %th Days
+      %th Total
+      %th Avg $
+      %th Days
+      %th Total
+      %th Avg $
+      %th Days
+
+  %tbody
+    - Product.select('DISTINCT size').order('size asc').each_with_index do |ps,n|
+      - i = ps.size
+      %tr
+        %td.r
+          %a{:href => "/length/#{i}/year"}= i.nil? ? '???' : i
+        %td= Product.active.where(:size => i).count
+        %td= number_to_currency(Product.active.where(:size => i).average('price_last').to_i)
+        %td.r= Product.active.where(:size => i).average('days_active').to_i
+        %td= Product.inactive.where(:size => i).count
+        %td= number_to_currency(Product.inactive.where(:size => i).average('price_last').to_i)
+        %td.r= Product.inactive.where(:size => i).average('days_active').to_i
+        %td= Product.where(:size => i).count
+        %td= number_to_currency(Product.where(:size => i).average('price_last').to_i)
+        %td.r= Product.where(:size => i).average('days_active').to_i

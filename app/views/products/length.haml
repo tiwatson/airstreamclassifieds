@@ -1,0 +1,12 @@
+%h2= "#{params[:length]} Footers"
+
+%table.table.table-condensed.table-striped.table-bordered
+  %thead
+    = render partial: 'length_header', locals: {table_header: 'Active Listings'}
+  %tbody
+    = render partial: 'length_product', collection: @products_active, as: :product
+  %thead
+    = render partial: 'length_header', locals: {table_header: 'Sold/Removed Listings'}
+  %tbody
+    = render partial: 'length_product', collection: @products_inactive, as: :product
+

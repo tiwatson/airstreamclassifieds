@@ -16,11 +16,11 @@ ActiveRecord::Schema.define(:version => 20130509203735) do
   create_table "products", :force => true do |t|
     t.integer  "external_id"
     t.string   "url"
-    t.string   "title"
-    t.string   "location"
-    t.string   "make_model"
+    t.string   "title",       :default => "",    :null => false
+    t.string   "location",    :default => "",    :null => false
+    t.string   "make_model",  :default => "",    :null => false
     t.text     "description"
-    t.string   "condition"
+    t.string   "condition",   :default => "",    :null => false
     t.integer  "year"
     t.integer  "size"
     t.integer  "price"

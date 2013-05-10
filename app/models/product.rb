@@ -1,7 +1,16 @@
 class Product < ActiveRecord::Base
   attr_accessible :created_at, :days_active, :description, :id, :listed_at, :location, :make_model, :price, :price_last, :external_id, :removed_at, :size, :sold, :title, :updated_at, :url, :year
 
-  scope :active, where('removed_at is null') 
+  scope :active, where('removed_at IS NULL AND sold = false')
+  scope :inactive, where('removed_at IS NOT NULL OR sold = true')
+
+  def is_active?
+    self.removed_at.nil? && !self.sold?
+  end
+
+  def url
+    "http://www.airstreamclassifieds.com/showproduct.php?product=#{self.external_id}"
+  end
 
   def sync_details
 
@@ -11,9 +20,9 @@ class Product < ActiveRecord::Base
     self.condition    = doc.xpath(ProductXpaths[:condition]).text
     self.description  = doc.xpath(ProductXpaths[:description]).text.strip!
     self.year         = doc.xpath(ProductXpaths[:year]).text.strip!
-    self.make_model   = doc.xpath(ProductXpaths[:make_model]).text.strip!
+    self.make_model   = doc.xpath(ProductXpaths[:make_model]).text.strip! || ''
     self.size         = doc.xpath(ProductXpaths[:size]).text.strip!
-    self.location     = doc.xpath(ProductXpaths[:location]).text.strip!
+    self.location     = doc.xpath(ProductXpaths[:location]).text.strip! || ''
 
     listed_at_tmp = doc.xpath(ProductXpaths[:listed_at]).text.split('/')
     self.listed_at = Time.parse("#{listed_at_tmp[2]}-#{listed_at_tmp[0]}-#{listed_at_tmp[1]} 12:00:00")
@@ -37,6 +46,7 @@ class Product < ActiveRecord::Base
       self.days_active = (Time.now - self.listed_at) / 86400
     end
 
+    self.sold ||= false
     self.save
 
   end
@@ -69,10 +79,12 @@ class Product < ActiveRecord::Base
     json.each do |i|
       i["external_id"] = i["product"]
       i.delete('product')
+      i.delete('url')
       p = Product.new(i)
       p.id = i["id"]
       p.save
     end
+    return ''
   end
 
 
