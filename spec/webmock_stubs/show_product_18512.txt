@@ -1,0 +1,816 @@
+HTTP/1.1 200 OK
+Date: Thu, 09 May 2013 22:06:44 GMT
+Server: Apache
+Set-Cookie: PHPSESSID=31behahauhq9so2nu977leo5m0; expires=Fri, 10-May-2013 22:06:44 GMT; path=/
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+            <html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en">
+            <head>
+            <title>1991 Airstream Excella 34' - Airstream Trailer Classifieds - Airstream Trailers For Sale</title>
+            <!-- no cache headers -->
+            <meta http-equiv="pragma" content="no-cache" />
+            <meta http-equiv="expires" content="Tue, 21 Nov 2010 05:00:00 GMT" />
+            <meta http-equiv="cache-control" content="no-cache, must-revalidate" />
+            <!-- end no cache headers -->
+
+  	    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  	    <meta name="keywords" content="1991 Airstream Excella 34', " />
+  	    <meta name="description" content="1991 Airstream Excella 34' Late Model Airstream Trailers, Used (1988 - 2013)" />
+  	    <meta name="generator" content="Photopost Classifieds 3.13" />
+            <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><meta name="description" content="Airstream Classifieds is the largest marketplace online dedicated to Airstream Trailers and Airstream Motohomes sales.  Post your Airstream trailer for sale today, it's FREE!">
+ <meta name="keywords" content="airstream,airstream trailers,airstream motorhomes,airstream trailer,airstream motorhome,airstream motor home,vintage,vintage airstream,vintage airstreams,classic airstream,trailer,airstreams,caravel,bambi,airstream bambi,overlander,ambasador,safari,vintage trailer,vinatge,classic,CCD,1954,1955,1956,1957,1958,1959,1960,1961,1962,1963,1964,1965,1967,1968,1969,1970,1971,1972,1973,1974,1975,1976,1977,1978,1979,1980,1981,1982,1983,1984,1985,1986,1987,1988,1989,1990,1991,1992,1993,1994,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005">
+ 
+ <script type='text/javascript'>
+ (function() {
+ var useSSL = 'https:' == document.location.protocol;
+ var src = (useSSL ? 'https:' : 'http:') +
+ '//www.googletagservices.com/tag/js/gpt.js';
+ document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+ })();
+ </script>
+ 
+ <script type='text/javascript'>
+ 
+ var sk_cookies = { };
+     if (document.cookie && document.cookie != '') {
+         var split = document.cookie.split(';');
+         for (var i = 0; i < split.length; i++) {
+             var name_value = split[i].split("=");
+             name_value[0] = name_value[0].replace(/^ /, '');
+             sk_cookies[decodeURIComponent(name_value[0])] = decodeURIComponent(name_value[1]);
+         }
+     }
+     var sk_v = new Array()
+     sk_v[0] = 1;
+     if (typeof sk_cookies['timezone_option'] !== 'undefined') 
+         { 
+ 	    	var sk_c = sk_cookies['timezone_option'].split("|");
+ 	        sk_v[0] = 2; 
+         }
+     if (sk_v[0] == 2)
+ 	{	
+ 		googletag.pubads().setTargeting('a', sk_c[0]);
+ 		googletag.pubads().setTargeting('g', sk_c[1]);
+ 	}
+ 
+ 
+ googletag.pubads().setTargeting('website', 'airstreamclassifieds');
+ googletag.pubads().setTargeting('page_url', document.URL);
+ googletag.pubads().setTargeting('vertical', ['rv', 'affluent', 'outdoor']);
+ googletag.pubads().setTargeting('network', 'null');
+ googletag.pubads().setTargeting('ForumID', '');
+ googletag.pubads().setTargeting('v', sk_v);
+ googletag.pubads().set('adsense_channel_ids', '');
+ googletag.pubads().set('adsense_background_color', '');
+ googletag.pubads().set('adsense_border_color', '');
+ googletag.pubads().set('adsense_link_color', '');
+ googletag.pubads().set('adsense_text_color', '');
+ googletag.pubads().set('adsense_url_color', '');
+ googletag.pubads().set('adsense_ui_features', 'rc:6');
+ googletag.pubads().set('adsense_ad_types', 'text_image');
+ 
+ var slot0 = googletag.defineSlot('/1007032/SK_728x90_Top_RON', [728, 90], 'div-gpt-ad-1328183710968-0')
+     slot0.addService(googletag.pubads())
+     slot0.setTargeting('Location', 'ATF');
+ var slot1 = googletag.defineSlot('/1007032/SK_300x250_Top_Left_RON', [300, 250], 'div-gpt-ad-1328183710968-1')
+     slot1.addService(googletag.pubads())
+     slot1.set('adsense_background_color', '#313131');
+     slot1.set('adsense_border_color', '#313131');
+     slot1.setTargeting('Location', 'ATF');
+ var slot2 = googletag.defineSlot('/1007032/SK_300x250_Top_Right_RON', [300, 250], 'div-gpt-ad-1328183710968-2')
+     slot2.addService(googletag.pubads())
+     slot2.setTargeting('Location', 'ATF');
+ var slot3 = googletag.defineSlot('/1007032/SK_300x250_Middle_Right_RON', [300, 250], 'div-gpt-ad-1328183710968-3')
+     slot3.addService(googletag.pubads())
+ var slot4 = googletag.defineSlot('/1007032/SK_160x600_Middle_Right_RON', [160, 600], 'div-gpt-ad-1328183710968-4')
+     slot4.addService(googletag.pubads())
+ var slot5 = googletag.defineSlot('/1007032/SK_728x90_Bottom_RON', [728, 90], 'div-gpt-ad-1328183710968-5')
+     slot5.addService(googletag.pubads())
+ 
+ googletag.pubads().enableSyncRendering();
+ googletag.enableServices();
+ </script>
+<script type='text/javascript'>
+(function() {
+var useSSL = 'https:' == document.location.protocol;
+var src = (useSSL ? 'https:' : 'http:') +
+'//www.googletagservices.com/tag/js/gpt.js';
+document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+})();
+</script>
+
+<script type='text/javascript'>
+
+var sk_cookies = { };
+    if (document.cookie && document.cookie != '') {
+        var split = document.cookie.split(';');
+        for (var i = 0; i < split.length; i++) {
+            var name_value = split[i].split("=");
+            name_value[0] = name_value[0].replace(/^ /, '');
+            sk_cookies[decodeURIComponent(name_value[0])] = decodeURIComponent(name_value[1]);
+        }
+    }
+    var sk_v = new Array()
+    sk_v[0] = 1;
+    if (typeof sk_cookies['timezone_option'] !== 'undefined') 
+        { 
+	    	var sk_c = sk_cookies['timezone_option'].split("|");
+	        sk_v[0] = 2; 
+        }
+    if (sk_v[0] == 2)
+	{	
+		googletag.pubads().setTargeting('a', sk_c[0]);
+		googletag.pubads().setTargeting('g', sk_c[1]);
+	}
+
+
+googletag.pubads().setTargeting('website', 'airstreamclassifieds');
+googletag.pubads().setTargeting('page_url', document.URL);
+googletag.pubads().setTargeting('vertical', ['rv', 'affluent', 'outdoor']);
+googletag.pubads().setTargeting('network', 'null');
+googletag.pubads().setTargeting('ForumID', '');
+googletag.pubads().setTargeting('v', sk_v);
+googletag.pubads().set('adsense_channel_ids', '');
+googletag.pubads().set('adsense_background_color', '');
+googletag.pubads().set('adsense_border_color', '');
+googletag.pubads().set('adsense_link_color', '');
+googletag.pubads().set('adsense_text_color', '');
+googletag.pubads().set('adsense_url_color', '');
+googletag.pubads().set('adsense_ui_features', 'rc:6');
+googletag.pubads().set('adsense_ad_types', 'text_image');
+
+var slot0 = googletag.defineSlot('/1007032/SK_728x90_Top_RON', [728, 90], 'div-gpt-ad-1328183710968-0')
+    slot0.addService(googletag.pubads())
+    slot0.setTargeting('Location', 'ATF');
+var slot1 = googletag.defineSlot('/1007032/SK_300x250_Top_Left_RON', [300, 250], 'div-gpt-ad-1328183710968-1')
+    slot1.addService(googletag.pubads())
+    slot1.set('adsense_background_color', '#313131');
+    slot1.set('adsense_border_color', '#313131');
+    slot1.setTargeting('Location', 'ATF');
+var slot2 = googletag.defineSlot('/1007032/SK_300x250_Top_Right_RON', [300, 250], 'div-gpt-ad-1328183710968-2')
+    slot2.addService(googletag.pubads())
+    slot2.setTargeting('Location', 'ATF');
+var slot3 = googletag.defineSlot('/1007032/SK_300x250_Middle_Right_RON', [300, 250], 'div-gpt-ad-1328183710968-3')
+    slot3.addService(googletag.pubads())
+var slot4 = googletag.defineSlot('/1007032/SK_160x600_Middle_Right_RON', [160, 600], 'div-gpt-ad-1328183710968-4')
+    slot4.addService(googletag.pubads())
+var slot5 = googletag.defineSlot('/1007032/SK_728x90_Bottom_RON', [728, 90], 'div-gpt-ad-1328183710968-5')
+    slot5.addService(googletag.pubads())
+
+googletag.pubads().enableSyncRendering();
+googletag.enableServices();
+</script>
+            <script type="text/javascript" >
+        <!--
+        var pppath = 'http://www.airstreamclassifieds.com/images';
+        var PopUpHelpX = (screen.width/2)-150;
+        var PopUpHelpY = (screen.height/2)-200;
+        var pos = "left="+PopUpHelpX+",top="+PopUpHelpY;
+        function PopUpHelp(url){
+        PopUpHelpWindow = window.open("http://www.airstreamclassifieds.com/help/"+url,"Smilies","scrollbars=yes,width=550,height=400,"+pos);
+        }
+        //-->
+        </script>
+<script type="text/javascript" src="http://www.airstreamclassifieds.com/js/dropdown.js"></script>
+<script type="text/javascript" src="http://www.airstreamclassifieds.com/js/enlargeit.js"></script>
+
+            
+            <link rel="stylesheet" href="http://www.airstreamclassifieds.com/stylesheets/colonial.css" type="text/css" />
+            <script type="text/javascript">
+<!--
+function createXMLHttpRequest() {
+    var ua;
+
+    if(window.XMLHttpRequest) {
+        try {
+            ua = new XMLHttpRequest();
+        } catch(e) {
+            ua = false;
+        }
+    } else if(window.ActiveXObject) {
+        try {
+            ua = new ActiveXObject("Microsoft.XMLHTTP");
+        } catch(e) {
+            ua = false;
+        }
+    }
+    return ua;
+}
+
+var req = createXMLHttpRequest();
+
+function sendProductReq(product,cat,orig,limit,sortby,sortdir,sorttime,ppuser) {
+        req.open('get', 'http://www.airstreamclassifieds.com/showframe.php?action=thumbs&product='+product+'&cat='+cat+'&orig='+orig+'&limit='+limit+'&sortby='+sortby+'&sortdir='+sortdir+'&sorttime='+sorttime+'&ppuser='+ppuser);
+        req.onreadystatechange = handleResponse;
+        req.send(null);
+}
+
+function sendFeatReq(feature,ispal,cat) {
+        req.open('get', 'http://www.airstreamclassifieds.com/showframe.php?action=feature&feature='+feature+'&ispal='+ispal+'&cat='+cat);
+        req.onreadystatechange = handleResponse;
+        req.send(null);
+}
+
+function sendCalReq(month,year) {
+        req.open('get', 'http://www.airstreamclassifieds.com/showframe.php?action=cal&month='+month+'&year='+year);
+        req.onreadystatechange = handleResponse;
+        req.send(null);
+}
+
+function sendInfoReq(what,product) {
+        req.open('get', 'http://www.airstreamclassifieds.com/showframe.php?action='+what+'&product='+product);
+        req.onreadystatechange = handleResponse;
+        req.send(null);
+}
+
+function handleResponse() {
+    if(req.readyState == 4){
+        var response = req.responseText;
+        var update = new Array();
+
+        if(response.indexOf('||' != -1)) {
+            update = response.split('||');
+            document.getElementById(update[0]).innerHTML = update[1];
+        }
+    }
+}
+//-->
+</script>
+            <link rel="alternate" type="application/rss+xml" title="RSS Feed" href="http://www.airstreamclassifieds.com/external.php?type=RSS2&amp;cat=16&amp;ppuser=74801" />
+            
+            <script type="text/javascript" src="http://www.airstreamclassifieds.com/js/tiny_mce.js"></script>
+	            <script type="text/javascript">
+	            tinyMCE.init({
+
+			relative_urls : false,
+			remove_script_host : false,
+			document_base_url : "http://www.airstreamclassifieds.com",
+
+			// General options
+			mode : "textareas",
+			theme : "advanced",
+	            });
+	            </script>
+
+            </head>
+            <body><script type="text/javascript">
+window.google_analytics_uacct = "UA-125129-19";
+</script>
+
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr>
+    <td><div align="center">
+        <h1>Airstream Trailer & Motorhome Classifieds</h1>
+
+<div id='div-gpt-ad-1328183710968-0' style='width:728px; height:90px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1328183710968-0'); });
+</script>
+</div>
+
+
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="8">
+<tr><td align="left" width="50%">
+
+<a href="http://www.airforums.com" target="_blank">Airstream Forums</a> - <a href="http://www.airstreamcentral.com" target="_blank">Airstream 
+          Central</a> - <a href="http://www.vintageairstream.com" target="_blank">Vintage Airstream Restoration</a>
+
+</td><td align="right" width="50%">
+
+<b><a href="http://www.airstreamcentral.com/articles/59/1/Classified-Ads---Basics-Tips-and-Helps/Page1.html" target="_blank"><kbd>Click Here</kbd></a><kbd> for info on how to use these classified, tips and dislaimer.
+</kbd></b>
+
+</td></tr>  
+</table>
+
+</td>
+  </tr>
+  <tr>
+    <td>
+<!-- BEGIN TEMPLATE: menubar.tmpl -->
+
+<div class="" style="align:center; width:100%;">
+    <table cellpadding="2" cellspacing="1" width="100%" class="tableborders">
+
+    <tr>
+       <td class="menubar" align="center" valign="middle"><span class="small"><a href="http://www.airforums.com/forums/">Forum</a></span></td> <td class="menubar" align="center" valign="middle"><span class="small"><a href="http://www.airstreamclassifieds.com/index.php">Home</a></span></td><td class="menubar" align="center" valign="middle"><span class="small"><a href="http://www.airstreamclassifieds.com/showmembers.php">Member List</a></span></td><td class="menubar" width="125" align="center" valign="middle"><div id="searchbox" onmouseout="btnTimer()" onmouseover="showLayer('Search0','searchbox')"><span class="small"><a href="#">Search&nbsp;<img src="http://www.airstreamclassifieds.com/images/menu_open.gif" alt="menu_open" border="0" /></a></span></div>
+   	    <div id="Search0" style="position: absolute; visibility:hidden; z-ndex: 1">
+              <form method="get" action="http://www.airstreamclassifieds.com/showcat.php">
+		<table class="tableborders" cellpadding="4" cellspacing="1" border="0">
+		  <tr><td class="menubar">Search Reviews</td></tr>
+		  <tr><td class="menubar">
+		      <input type="hidden" name="cat" value="" />
+                      <input type="hidden" name="stype" value="1" />
+                      <input type="text" name="si" style="font-size: 8pt;" size="15" value="" />
+                      <input type="submit" value="Go" style="font-size: 9pt;" />
+                  </td></tr>
+		  <tr><td class="menubar">
+                  <a href="http://www.airstreamclassifieds.com/search.php">Advanced Search</a>
+                  </td></tr>
+		</table>
+              </form>   
+	    </div></td><td class="menubar" align="center" valign="middle"><span class="small"><a href="http://www.airforums.com/forums/register.php?action=signup">Register</a></span></td> <td class="menubar" align="center" valign="middle"><span class="small"><a href="http://www.airstreamclassifieds.com/misc.php?action=login&amp;login=yes">Login</a></span></td>
+    </tr>
+
+    </table>
+</div>
+<br />
+<!-- END TEMPLATE: menubar.tmpl --><table width="100%" cellpadding="0" cellspacing="0" border="0" align="center">
+<tr>
+<td align="center" valign="top">
+<!-- BEGIN TEMPLATE: showproduct.tmpl --><script type="text/javascript">
+<!--
+function openBigWindow(theURL,features) {
+  window.open(theURL,'',features);
+}
+// -->
+</script>
+
+<div class="" style="align:center; width:100%;">
+    <table cellpadding="2" cellspacing="1" width="100%" class="tableborders">
+
+        <tr>
+        <td colspan="5" class="menubar">
+            <table cellpadding="0" cellspacing="0" border="0" width="98%" align="center">
+                <tr>
+                <td align="left" class="menubarnb">
+                    <span class="medium"><span class="small"><a href="http://www.airstreamclassifieds.com/index.php">Home</a> &raquo; <a href="http://www.airstreamclassifieds.com/index.php?cat=21">Airstream & Argosy Trailers</a> &raquo; <a href="http://www.airstreamclassifieds.com/showcat.php?cat=16">Late Model Airstream Trailers, Used (1988 - 2013)</a> </span></span>
+                </td>
+	        <td width="125" align="right">                </td>
+                </tr>
+            </table>
+        </td>
+        </tr><!--PhotoPost Classifieds, Copyright All Enthusiast,Inc.-->
+		
+		<tr>
+		
+        <td class="tdbackground" colspan="5" valign="top" align="center">
+                <br />
+  	        <span class="normal"><a href="http://www.airstreamclassifieds.com/showproduct.php?product=18507" title="Previous Ad"><img src="http://www.airstreamclassifieds.com/images/control_rewind.png" alt="Previous Ad" border="0" /></a>&nbsp; &nbsp; <a href="http://www.airstreamclassifieds.com/showproduct.php?product=18517" title="Next Ad"><img src="http://www.airstreamclassifieds.com/images/control_fastforward.png" alt="Next Ad" border="0" /></a></span>
+		    <table cellpadding="0" border="0" cellspacing="1" width="90%">
+		    <tr>
+		    <td class="tdbackground" valign="middle" align="center">		        <table cellpadding="0" cellspacing="1" border="0" width="100%">
+		        <tr>
+		          <td class="small" valign="bottom" align="center"><br /><a href="http://www.airstreamclassifieds.com/attachments/classifieds/data/16/photo_6_.JPG" onclick="return false;"><img src="http://www.airstreamclassifieds.com/attachments/classifieds/data/16/thumbs/photo_6_.JPG" alt="photo_6_.JPG" onclick="enlarge(this);" longdesc="http://www.airstreamclassifieds.com/attachments/classifieds/data/16/photo_6_.JPG" border="0" /></a><br /><a href="javascript:;" onclick="openBigWindow('http://www.airstreamclassifieds.com/showfull.php?product=18512&amp;bigimage=photo_6_.JPG','scrollbars=yes,toolbar=no,status=no,resizable=yes,width=1600,height=1200')">supersize</a></td>
+		          <td class="small" valign="bottom" align="center"><br /><a href="http://www.airstreamclassifieds.com/attachments/classifieds/data/16/photo_7_2_.JPG" onclick="return false;"><img src="http://www.airstreamclassifieds.com/attachments/classifieds/data/16/thumbs/photo_7_2_.JPG" alt="photo_7_2_.JPG" onclick="enlarge(this);" longdesc="http://www.airstreamclassifieds.com/attachments/classifieds/data/16/photo_7_2_.JPG" border="0" /></a><br /><a href="javascript:;" onclick="openBigWindow('http://www.airstreamclassifieds.com/showfull.php?product=18512&amp;bigimage=photo_7_2_.JPG','scrollbars=yes,toolbar=no,status=no,resizable=yes,width=1510,height=1132')">supersize</a></td>
+		          <td class="small" valign="bottom" align="center"><br /><a href="http://www.airstreamclassifieds.com/attachments/classifieds/data/16/photo_8_1.JPG" onclick="return false;"><img src="http://www.airstreamclassifieds.com/attachments/classifieds/data/16/thumbs/photo_8_1.JPG" alt="photo_8_1.JPG" onclick="enlarge(this);" longdesc="http://www.airstreamclassifieds.com/attachments/classifieds/data/16/photo_8_1.JPG" border="0" /></a><br /><a href="javascript:;" onclick="openBigWindow('http://www.airstreamclassifieds.com/showfull.php?product=18512&amp;bigimage=photo_8_1.JPG','scrollbars=yes,toolbar=no,status=no,resizable=yes,width=1600,height=1200')">supersize</a></td>
+		          </tr><tr>
+		          <td class="small" valign="bottom" align="center"><br /><a href="http://www.airstreamclassifieds.com/attachments/classifieds/data/16/photo2.JPG" onclick="return false;"><img src="http://www.airstreamclassifieds.com/attachments/classifieds/data/16/thumbs/photo2.JPG" alt="photo2.JPG" onclick="enlarge(this);" longdesc="http://www.airstreamclassifieds.com/attachments/classifieds/data/16/photo2.JPG" border="0" /></a><br /><a href="javascript:;" onclick="openBigWindow('http://www.airstreamclassifieds.com/showfull.php?product=18512&amp;bigimage=photo2.JPG','scrollbars=yes,toolbar=no,status=no,resizable=yes,width=1600,height=1200')">supersize</a></td>
+		          <td class="small" valign="bottom" align="center"><br /><a href="http://www.airstreamclassifieds.com/attachments/classifieds/data/16/photo_4_2.JPG" onclick="return false;"><img src="http://www.airstreamclassifieds.com/attachments/classifieds/data/16/thumbs/photo_4_2.JPG" alt="photo_4_2.JPG" onclick="enlarge(this);" longdesc="http://www.airstreamclassifieds.com/attachments/classifieds/data/16/photo_4_2.JPG" border="0" /></a><br /><a href="javascript:;" onclick="openBigWindow('http://www.airstreamclassifieds.com/showfull.php?product=18512&amp;bigimage=photo_4_2.JPG','scrollbars=yes,toolbar=no,status=no,resizable=yes,width=1600,height=1200')">supersize</a></td>
+		          <td class="small" valign="bottom" align="center"><br /><a href="http://www.airstreamclassifieds.com/attachments/classifieds/data/16/photo_9_.JPG" onclick="return false;"><img src="http://www.airstreamclassifieds.com/attachments/classifieds/data/16/thumbs/photo_9_.JPG" alt="photo_9_.JPG" onclick="enlarge(this);" longdesc="http://www.airstreamclassifieds.com/attachments/classifieds/data/16/photo_9_.JPG" border="0" /></a><br /><a href="javascript:;" onclick="openBigWindow('http://www.airstreamclassifieds.com/showfull.php?product=18512&amp;bigimage=photo_9_.JPG','scrollbars=yes,toolbar=no,status=no,resizable=yes,width=1600,height=1200')">supersize</a></td>
+		          </tr><tr>
+		          <td class="small" valign="bottom" align="center"><br /><a href="http://www.airstreamclassifieds.com/attachments/classifieds/data/16/photo_13_1.JPG" onclick="return false;"><img src="http://www.airstreamclassifieds.com/attachments/classifieds/data/16/thumbs/photo_13_1.JPG" alt="photo_13_1.JPG" onclick="enlarge(this);" longdesc="http://www.airstreamclassifieds.com/attachments/classifieds/data/16/photo_13_1.JPG" border="0" /></a><br /><a href="javascript:;" onclick="openBigWindow('http://www.airstreamclassifieds.com/showfull.php?product=18512&amp;bigimage=photo_13_1.JPG','scrollbars=yes,toolbar=no,status=no,resizable=yes,width=1200,height=1600')">supersize</a></td>
+		          <td class="small" valign="bottom" align="center"><br /><a href="http://www.airstreamclassifieds.com/attachments/classifieds/data/16/photo_2_2.JPG" onclick="return false;"><img src="http://www.airstreamclassifieds.com/attachments/classifieds/data/16/thumbs/photo_2_2.JPG" alt="photo_2_2.JPG" onclick="enlarge(this);" longdesc="http://www.airstreamclassifieds.com/attachments/classifieds/data/16/photo_2_2.JPG" border="0" /></a><br /><a href="javascript:;" onclick="openBigWindow('http://www.airstreamclassifieds.com/showfull.php?product=18512&amp;bigimage=photo_2_2.JPG','scrollbars=yes,toolbar=no,status=no,resizable=yes,width=1200,height=1600')">supersize</a></td>
+		          <td class="small" valign="bottom" align="center"><br /></td>
+		        </tr>
+		        </table>		    </td>
+		    <td valign="top" class="tdbackground">			<table cellpadding="0" cellspacing="6" border="0" width="100%">
+			<tr>
+	            	<td class="menubar" colspan="2" align="center">
+	            	    <span class="medium">Seller Details</span>
+	            	</td>
+	                </tr>
+	                <tr>
+				<td width="50%" valign="top" align="left">
+					<div class="medium">
+                                            <br />
+				            <a href="http://www.airstreamclassifieds.com/member.php?uid=74801">meh608</a>
+	  		                    <span class="small"></span><br />
+					</div>
+					<div class="small">				
+					    New Member<br />Posts: 0<br />Registered: March 2013<br />
+                                        </div>
+					
+				</td>
+				<td width="50%" valign="top" align="left">
+					<div class="small">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Feedback: <b>None</b>
+					</div>
+					<div class="small">
+					<ul>
+					<li><a href="http://www.airstreamclassifieds.com/member.php?uid=74801&amp;ppaction=readfeed">See Detailed Feedback</a></li>
+					<li><a href="http://www.airstreamclassifieds.com/contact.php?contact=74801&amp;productid=18512">Contact Seller</a></li>
+					<li><a href="http://www.airstreamclassifieds.com/showcat.php?cat=500&amp;ppuser=74801">View seller's other items</a></li>
+					</ul>
+					</div>
+				</td>
+			</tr>
+			</table>
+		    </td>
+		    </tr>
+		    </table>
+                    <br />
+                    <table cellpadding="0" border="0" cellspacing="0" width="90%" align="center">
+                    <tr>
+                    <td class="tdbackground">
+                        <table cellpadding="4" cellspacing="1" border="0" width="100%">
+                        <tr>
+                        <td colspan="2" class="tdbackground">
+                            <table width="100%" cellpadding="0" cellspacing="1" border="0">
+                                <tr>
+                                <td align="left">
+                                    <span class="large"><b>1991 Airstream Excella 34'</b></span>
+                                </td>
+                                </tr>
+                            </table>
+                        </td>
+                        </tr>
+                        <tr>
+                        <td>
+                            <table width="100%" cellpadding="2" cellspacing="1" class="tableborders"><tr>
+                                <td align="center" class="tddetails">
+                                    <span class="small">Quantity</span>
+                                </td>                            	<td class="tddetails" align="center">
+                            	    <span class="small">Views</span>
+                            	</td>
+                            	<td class="tddetails" align="center">
+                            	    <span class="small">Date Posted</span>
+                            	</td>
+                            	</tr>
+                            	<tr>
+                                <td align="center" class="tddetails">
+                                    <span class="small"><b>1</b></span>
+                                </td>                            	<td class="tddetails" align="center">
+                            	    <span class="small"><b>2736</b></span>
+                            	</td>
+                            	<td class="tddetails" align="center">
+                            	    <span class="small"><b>3/18/2013</b></span>
+                            	</td>
+                            	</tr>
+                                </table>
+                        </td>
+                        </tr>
+                        <tr>
+                        <td>
+                            <table width="100%" cellpadding="2" cellspacing="1" class="tableborders">
+                                <tr>
+                                <td align="center" class="tddetails">
+                                    <span class="small">Asking Price</span>
+                                </td>
+                                <td align="center" class="tddetails">
+                                    <span class="small">Shipping Cost? (If applicable - In US Dollars)  If you cannot ship, leave blank.</span>
+                                </td>
+                                <td align="center" class="tddetails">
+                                    <span class="small">Condition</span>
+                                </td>                                </tr><tr>
+                            	<td align="center" class="tddetails">
+                            	    <span class="small"><b>&#36;19,500.00</b></span>
+                            	</td>
+                            	<td align="center" class="tddetails">
+                            	    <span class="small"><b>None</b></span>
+                            	</td>
+                            	<td align="center" class="tddetails">
+                            	    <span class="small"><b>Excellent</b></span>
+                            	</td>                            	</tr>
+                            </table>                        </td>
+                        </tr>                    </table>
+                <table cellpadding="0" border="0" cellspacing="1" width="100%">
+                    <tr>
+                    <td class="tdbackground">
+		    
+                    <table cellpadding="4" cellspacing="1" border="0" width="100%">                        <tr>
+                        <td width="10%" class="tddetails" align="left" valign="top">
+	                            <span class="small">Description:</span>
+                        </td>
+                        <td class="tddetails" align="left">
+                        <p>1991 Airstream Excella 34', all original interior, in excellent condition.<br /> -2 twin beds in rear with underbed storage; cedar lined closet<br /> -All appliances in great shape (includes microwave)<br /> -Road and door side awnings<br /> -Wooden mini blinds and curtains throughout<br /> -Front sofa and side dinette<br /> -Kitchen faucet and bathroom vent recently replaced<br /> -Furnace and air conditioning work great<br /> -Electric jack<br /> -Wheel shades included<br /> -Tons of storage<br /> -Pet and smoke free</p><br />
+<p>*BluOx anti-sway hitch included ($700 value)</p><br />
+<p><br /> Must see to appreciate! $19,,500 or best reasonable offer<br /> <br /> Call (678) 576-5263 or (770) 974-6894</p>
+                        </td>
+                        </tr>                        <tr>
+                        <td width="10%" class="tddetails" align="left" valign="top">
+                            <span class="small">Year:</span>
+                        </td>
+                        <td width="10%" class="tddetails" align="left" valign="top">
+                        1991
+                        </td>
+                        </tr>                        <tr>
+                        <td width="10%" class="tddetails" align="left" valign="top">
+                            <span class="small">Make and Model:</span>
+                        </td>
+                        <td width="10%" class="tddetails" align="left" valign="top">
+                        Excella
+                        </td>
+                        </tr>                        <tr>
+                        <td width="10%" class="tddetails" align="left" valign="top">
+                            <span class="small">Length:</span>
+                        </td>
+                        <td width="10%" class="tddetails" align="left" valign="top">
+                        34'
+                        </td>
+                        </tr>                        <tr>
+                        <td width="10%" class="tddetails" align="left" valign="top">
+                            <span class="small">Location of Trailer:</span>
+                        </td>
+                        <td width="10%" class="tddetails" align="left" valign="top">
+                        Atlanta, GA
+                        </td>
+                        </tr>                <tr>
+                <td class="tddetails" align="left" valign="top">
+                    <span class="small">Type of Sale</span>
+                </td>
+                <td class="tddetails" align="left" valign="top">
+                    <span class="small">Private</span>
+                </td>
+                </tr>                    </table>
+                    </td>
+                    </tr>
+                </table>
+                <br />
+            </td>
+            </tr>            </table>
+    <br />
+    <div id="extrainfo"></div>
+    </td>
+    
+    </tr>
+    
+
+    </table>
+</div>
+<br />
+
+
+<div class="" style="align:center; width:100%;">
+    <table cellpadding="2" cellspacing="1" width="100%" class="tableborders">
+
+        <tr>
+        <td class="menubar" width="175" align="left" nowrap="nowrap">
+            <span class="small"><b>Author</b></span>
+        </td>
+        <td class="menubar" width="100%">
+            <table width="100%" border="0" cellpadding="0" cellspacing="0">
+            <tr>
+            <td width="100%" align="left" class="menubarnb">
+                <span class="small"><b></b></span>
+            </td>
+            <td nowrap="nowrap" align="right">
+                
+            </td>
+            </tr>
+            </table>
+        </td>
+        </tr>
+        <tr>
+        <td class="tddetails" width="175" valign="top" align="left" nowrap="nowrap">
+            <span class="medium"><b>oledawg</b></span>
+            <span class="small">
+            <br />"Sassyfras"<br /><br />Registered: March 2011<br />Posts: 12
+            </span>
+        </td>
+        <td class="tddetails" width="100%" valign="top">
+            <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                <tr>
+                <td>
+                    <table width="100%" cellpadding="0" cellspacing="1" align="left">
+                        <tr>
+                            <td align="left">
+                                <span class="small">Comment Date: <b>3/27/2013</b></span>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+                </tr>
+                <tr>
+                <td class="medium" align="left">
+                    <p>May have an interest. Like the twin beds. Leaks now or in the past? What has been replaced and when? Dings?</p><br />
+<p>Thanks.</p><br />
+<p>browder@nuventrs.com</p>
+                </td>
+                </tr>
+            </table>
+        </td>
+        </tr>
+        <tr>
+        <td class="menubar" width="175" height="16" align="left" nowrap="nowrap">
+            <span class="small"><img src="http://www.airstreamclassifieds.com/images/vb2off.gif" border="0" alt="This user is offline" align="absmiddle" /> </span>
+        </td>
+        <td class="menubar" width="100%" valign="middle" height="16">
+            <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                <tr valign="bottom">
+                <td align="left">
+                    <a href="http://www.airforums.com/forums/member.php?u=53992" target="_blank"><img
+        src="http://www.airstreamclassifieds.com/images/profile.gif" border="0" alt="Click here to see this users profile" /></a> <a href="http://www.airforums.com/forums/private.php?do=newpm&u=53992"><img
+        src="http://www.airstreamclassifieds.com/images/vb2sendpm.gif" border="0" alt="Click here to Send this user a Private Message" /></a>  
+        <a href="http://www.airforums.com/forums/search.php?s=&action=finduser&amp;userid=53992"><img
+        src="http://www.airstreamclassifieds.com/images/vb2find.gif" border="0" alt="Find more ads by this user" /></a><!--PhotoPost, copyright All, Enthusiast, Inc.-->
+                </td>
+                <td align="right" nowrap="nowrap">
+                    &nbsp;                </td>
+                </tr>
+        </table>
+        </td>
+        </tr>        <tr>
+        <td class="alternatetable" width="175" valign="top" align="left" nowrap="nowrap">
+            <span class="medium"><b>oledawg</b></span>
+            <span class="small">
+            <br />"Sassyfras"<br /><br />Registered: March 2011<br />Posts: 12
+            </span>
+        </td>
+        <td class="alternatetable" width="100%" valign="top">
+            <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                <tr>
+                <td>
+                    <table width="100%" cellpadding="0" cellspacing="1" align="left">
+                        <tr>
+                            <td align="left">
+                                <span class="small">Comment Date: <b>3/28/2013</b></span>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+                </tr>
+                <tr>
+                <td class="medium" align="left">
+                    <p>Axles, wheels, bearings, tires in what kind of shape?</p><br />
+<p>Thanks.</p>
+                </td>
+                </tr>
+            </table>
+        </td>
+        </tr>
+        <tr>
+        <td class="menubar" width="175" height="16" align="left" nowrap="nowrap">
+            <span class="small"><img src="http://www.airstreamclassifieds.com/images/vb2off.gif" border="0" alt="This user is offline" align="absmiddle" /> </span>
+        </td>
+        <td class="menubar" width="100%" valign="middle" height="16">
+            <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                <tr valign="bottom">
+                <td align="left">
+                    <a href="http://www.airforums.com/forums/member.php?u=53992" target="_blank"><img
+        src="http://www.airstreamclassifieds.com/images/profile.gif" border="0" alt="Click here to see this users profile" /></a> <a href="http://www.airforums.com/forums/private.php?do=newpm&u=53992"><img
+        src="http://www.airstreamclassifieds.com/images/vb2sendpm.gif" border="0" alt="Click here to Send this user a Private Message" /></a>  
+        <a href="http://www.airforums.com/forums/search.php?s=&action=finduser&amp;userid=53992"><img
+        src="http://www.airstreamclassifieds.com/images/vb2find.gif" border="0" alt="Find more ads by this user" /></a><!--PhotoPost, copyright All, Enthusiast, Inc.-->
+                </td>
+                <td align="right" nowrap="nowrap">
+                    &nbsp;                </td>
+                </tr>
+        </table>
+        </td>
+        </tr>        <tr>
+        <td class="tddetails" width="175" valign="top" align="left" nowrap="nowrap">
+            <span class="medium"><b>oledawg</b></span>
+            <span class="small">
+            <br />"Sassyfras"<br /><br />Registered: March 2011<br />Posts: 12
+            </span>
+        </td>
+        <td class="tddetails" width="100%" valign="top">
+            <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                <tr>
+                <td>
+                    <table width="100%" cellpadding="0" cellspacing="1" align="left">
+                        <tr>
+                            <td align="left">
+                                <span class="small">Comment Date: <b>3/31/2013</b></span>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+                </tr>
+                <tr>
+                <td class="medium" align="left">
+                    <p>Anyone home? ;-)</p>
+                </td>
+                </tr>
+            </table>
+        </td>
+        </tr>
+        <tr>
+        <td class="menubar" width="175" height="16" align="left" nowrap="nowrap">
+            <span class="small"><img src="http://www.airstreamclassifieds.com/images/vb2off.gif" border="0" alt="This user is offline" align="absmiddle" /> </span>
+        </td>
+        <td class="menubar" width="100%" valign="middle" height="16">
+            <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                <tr valign="bottom">
+                <td align="left">
+                    <a href="http://www.airforums.com/forums/member.php?u=53992" target="_blank"><img
+        src="http://www.airstreamclassifieds.com/images/profile.gif" border="0" alt="Click here to see this users profile" /></a> <a href="http://www.airforums.com/forums/private.php?do=newpm&u=53992"><img
+        src="http://www.airstreamclassifieds.com/images/vb2sendpm.gif" border="0" alt="Click here to Send this user a Private Message" /></a>  
+        <a href="http://www.airforums.com/forums/search.php?s=&action=finduser&amp;userid=53992"><img
+        src="http://www.airstreamclassifieds.com/images/vb2find.gif" border="0" alt="Find more ads by this user" /></a><!--PhotoPost, copyright All, Enthusiast, Inc.-->
+                </td>
+                <td align="right" nowrap="nowrap">
+                    &nbsp;                </td>
+                </tr>
+        </table>
+        </td>
+        </tr>
+    </table>
+</div>
+<br /></td>
+<td width="10">
+&nbsp;
+</td>
+<td align="center" valign="top" width="345">    
+<div class="" style="align:center; width:100%;">
+    <table cellpadding="2" cellspacing="1" width="100%" class="tableborders">
+
+        <tr>
+        <td align="center" class="menubar">
+            <span class="medium"><b>Sponsor Ads</b></span>
+        </td>
+        </tr>
+        <tr>
+        <td class="tddetails" align="center">
+     
+<br />
+<!-- SK_300x250_Top_Left -->
+<div id='div-gpt-ad-1328183710968-1' style='width:300px; height:250px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1328183710968-1'); });
+</script>
+</div>
+
+<br /><br />
+     <!-- SK_300x250_Top_Right -->
+<div id='div-gpt-ad-1328183710968-2' style='width:300px; height:250px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1328183710968-2'); });
+</script>
+</div>   
+
+<br /><br />
+     <!-- SK_300x250_Middle_Right -->
+<div id='div-gpt-ad-1328183710968-3' style='width:300px; height:250px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1328183710968-3'); });
+</script>
+</div>   
+<br />
+
+        </td>
+        </tr>
+
+
+
+<br />
+
+
+    
+    </table>
+</div>
+</td>
+</tr>
+</table>
+<br /><br /><div align="center"><span class="onbody"><font size="1" face="verdana">Powered by: <a href="http://www.photopost.com">PhotoPost Classifieds 3.2</a> <br />Copyright 2009 All Enthusiast, Inc.</font></span></div><br /></td>
+  </tr>
+  <tr>
+    <td><div align="center"> 
+
+<!-- SK_728x90_Bottom -->
+<div id='div-gpt-ad-1328183710968-5' style='width:728px; height:90px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1328183710968-5'); });
+</script>
+</div>
+
+        <p><font size="2" face="Arial, Helvetica, sans-serif"><br>
+          Other recommended RV/Travel Trailer sites:<br>
+          <a href="http://www.airforums.com" target="_blank">Airstream Forums</a> 
+          - <a href="http://www.airstreamcentral.com" target="_blank">Airstream 
+          Central</a>
+          - <a href="http://www.fiberglassrv.com" target="_blank">Fiberglass RV Forums</a>
+          - <a href="http://www.irv2.com" target="_blank">iRV2 RV Forums</a></font></p>
+        <p><font size="2" face="Arial, Helvetica, sans-serif"> This site is not sponsored 
+          by or affiliated in any way with Airstream, Inc. in Jackson Center, 
+          OH.</font><br>
+        </p>
+        </div></td>
+  </tr>
+</table>
+
+<!-- start Vibrant Media IntelliTXT script section -->
+<script type="text/javascript" src="http://airstreamclassifieds.us.intellitxt.com/intellitxt/front.asp?ipid=25507"></script>
+<!-- end Vibrant Media IntelliTXT script section -->
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-125129-19");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+<!-- Start Quantcast tag -->
+<script type="text/javascript">
+_qoptions={
+qacct:"p-10KpXr-UTOg_A"
+};
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript>
+<img src="http://pixel.quantserve.com/pixel/p-10KpXr-UTOg_A.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<!-- End Quantcast tag -->
+
+<!-- Start Driving Revenue tag -->
+<script language="JavaScript" type="text/javascript"> var DR_id = "1317";</script>
+<script language="JavaScript" type="text/javascript" src="http://http.cdnlayer.com/drivingrevenue/DR_v4.js"></script>
+<!-- End Driving Revenue tag -->
+</body></html>

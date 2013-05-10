@@ -74,3 +74,18 @@ module Airstreamclassifieds
     config.assets.version = '1.0'
   end
 end
+
+require 'nokogiri'
+require 'open-uri'
+
+ProductXpaths = {
+  title:        '//html/body/table/tr[2]/td/table/tr/td[1]/div[1]/table/tr[2]/td/table[2]/tr/td/table[1]/tr[1]/td/table/tr/td/span/b',
+  listed_at:    '/html/body/table/tr[2]/td/table/tr/td[1]/div[1]/table/tr[2]/td/table[2]/tr/td/table[1]/tr[2]/td/table/tr[2]/td[3]/span/b',
+  price:        '/html/body/table/tr[2]/td/table/tr/td/div/table/tr[2]/td/table[2]/tr/td/table/tr[3]/td/table/tr[2]/td[1]/span/b',
+  condition:    '/html/body/table/tr[2]/td/table/tr/td/div/table/tr[2]/td/table[2]/tr/td/table/tr[3]/td/table/tr[2]/td[3]/span/b',
+  description:  '/html/body/table/tr[2]/td/table/tr/td/div/table/tr[2]/td/table[2]/tr/td/table[2]/tr/td/table/tr/td[2]',
+  year:         '/html/body/table/tr[2]/td/table/tr/td/div/table/tr[2]/td/table[2]/tr/td/table[2]/tr/td/table/tr[2]/td[2]',
+  make_model:   '/html/body/table/tr[2]/td/table/tr/td/div/table/tr[2]/td/table[2]/tr/td/table[2]/tr/td/table/tr[3]/td[2]',
+  size:         '/html/body/table/tr[2]/td/table/tr/td/div/table/tr[2]/td/table[2]/tr/td/table[2]/tr/td/table/tr[4]/td[2]',
+  location:     '/html/body/table/tr[2]/td/table/tr/td/div/table/tr[2]/td/table[2]/tr/td/table[2]/tr/td/table/tr[5]/td[2]'
+}
