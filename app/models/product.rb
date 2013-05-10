@@ -1,6 +1,5 @@
 class Product < ActiveRecord::Base
-  # attr_accessible :title, :body
-
+  attr_accessible :created_at, :days_active, :description, :id, :listed_at, :location, :make_model, :price, :price_last, :external_id, :removed_at, :size, :sold, :title, :updated_at, :url, :year
 
   scope :active, where('removed_at is null') 
 
@@ -63,5 +62,18 @@ class Product < ActiveRecord::Base
     @active_external_ids = (doc/"span.medium/a").collect { |h| h.attributes['href'].value[/product=(\d*)/,1] }.compact
     return @active_external_ids
   end
+
+
+  def self.import
+    json = JSON.parse(File.new(Rails.root + 'tmp/dump.txt').read)
+    json.each do |i|
+      i["external_id"] = i["product"]
+      i.delete('product')
+      p = Product.new(i)
+      p.id = i["id"]
+      p.save
+    end
+  end
+
 
 end
