@@ -75,7 +75,7 @@ class Product < ActiveRecord::Base
 
 
   def self.import
-    json = JSON.parse(File.new(Rails.root + 'tmp/dump.txt').read)
+    json = JSON.parse(File.new(Rails.root + 'public/dump.txt').read)
     json.each do |i|
       i["external_id"] = i["product"]
       i.delete('product')

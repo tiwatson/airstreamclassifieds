@@ -2,8 +2,8 @@
 %html
   %head
     %meta{:content => "width=device-width, initial-scale=1.0", :name => "viewport"}
-      %title= content_for?(:title) ? yield(:title) : "Airstreamclassifieds"
-      %meta{:content => content_for?(:description) ? yield(:description) : "Airstreamclassifieds", :name => "description"}
+      %title= content_for?(:title) ? yield(:title) : "Airstream Classified Tracker"
+      %meta{:content => content_for?(:description) ? yield(:description) : "Airstream Classified Tracker", :name => "description"}
         = stylesheet_link_tag "application", :media => "all"
         = javascript_include_tag "application"
         = csrf_meta_tags
@@ -21,5 +21,22 @@
               = render 'layouts/messages'
               = yield
           %footer
-      / ! end of .container
-    / ! end of #main
+            %hr 
+            %p
+              This site is not sponsored by or affiliated in any way with http://www.airstreamclassifieds.com/
+            %p
+              This site is not sponsored by or affiliated in any way with Airstream, Inc. in Jackson Center, OH.
+
+            %h5
+              %a{href: 'http://tiwatson.com'}Built by Tim Watson
+
+    :javascript
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-24495700-1']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();

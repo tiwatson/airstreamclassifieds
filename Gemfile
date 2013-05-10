@@ -55,3 +55,5 @@ gem "hub", ">= 1.10.2", :require => nil, :group => [:development]
 
 
 gem 'webmock'
+
+gem 'pg', :group => :production
