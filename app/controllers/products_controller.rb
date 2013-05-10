@@ -1,7 +1,7 @@
 class ProductsController < ApplicationController
 
   def index
-    logger.debug(Product.active.where(:size => 25).all.map(&:price_last))
+
   end
 
   def show
@@ -9,6 +9,7 @@ class ProductsController < ApplicationController
   end
 
   def length
+    params[:length] = nil if params[:length] == 'undef'
     @products_active = Product.active.where(:size => params[:length]).order(product_order)
     @products_inactive = Product.inactive.where(:size => params[:length]).order(product_order)
   end

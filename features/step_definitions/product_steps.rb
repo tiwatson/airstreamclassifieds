@@ -70,3 +70,19 @@ Then(/^I should see all archived attributes the are available$/) do
   page.should have_content('Cortez, Colorado')
   page.should have_content('$40,000.00')
 end
+
+
+Given(/^a trailer with no length$/) do
+    Fabricate(:product, size: nil, year: 2001, price_last: 40000, price: 40000, days_active: 20, removed_at: nil, title: "Trailer of unknown length", description: "Trailer is in good condition", condition: 'Good', make_model: 'Safari', external_id: '11111', location: 'Cortez, Colorado')
+
+end
+
+Then(/^I should be able to get to the trailer product page\.$/) do
+  page.click_link('???')
+  page.should have_content('Trailer of unknown length')
+  page.click_link('Details')
+  page.should have_content('Trailer of unknown length')
+  page.should have_content('Active Listing on airstreamclassifieds.com')
+end
+
+

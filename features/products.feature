@@ -25,3 +25,8 @@ Feature: Products
     When I visit that trailers product page
     Then I should see a message that it is still actively listed on airstreamclassifieds
     And I should see all archived attributes the are available
+
+  Scenario: Trailers with length unentered should still be viewable
+    Given a trailer with no length
+    When I visit the homepage
+    Then I should be able to get to the trailer product page.

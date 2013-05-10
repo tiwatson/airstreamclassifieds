@@ -21,7 +21,10 @@
       - i = ps.size
       %tr
         %td.r
-          %a{:href => "/length/#{i}/year"}= i.nil? ? '???' : i
+          - if ps.size.nil?
+            = link_to '???', length_path(length: 'undef', order: 'year')
+          - else
+            = link_to ps.size, length_path(length: ps.size, order: 'year')
         %td= Product.active.where(:size => i).count
         %td= number_to_currency(Product.active.where(:size => i).average('price_last').to_i)
         %td.r= Product.active.where(:size => i).average('days_active').to_i
