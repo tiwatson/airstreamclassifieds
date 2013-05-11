@@ -64,3 +64,4 @@ end
 gem 'nokogiri'
 gem 'heroku'
 
+gem 'turbolinks'
