@@ -56,6 +56,11 @@ gem "hub", ">= 1.10.2", :require => nil, :group => [:development]
 
 gem 'webmock', :group => [:development, :test]
 
-gem 'pg', :group => :production
+group :production do
+  gem 'therubyracer-heroku', '0.8.1.pre3'
+  gem 'pg'
+end
+
 gem 'nokogiri'
 gem 'heroku'
+
